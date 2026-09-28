@@ -150,9 +150,9 @@ In-game multiplayer card-table experience showcasing player interaction, cards a
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shahbaz8600&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=shahroz-shahzad&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shahbaz8600&style=flat-square&label=Profile%20Views)
+![Profile Views](https://komarev.com/ghpvc/?username=shahroz-shahzad&style=flat-square&label=Profile%20Views)
 
 </div>
 
