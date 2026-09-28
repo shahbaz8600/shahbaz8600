@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/profile.jpg" alt="Shahroz Shahzad" width="180" style="border-radius:50%">
+
 # Shahroz Shahzad
 
 ### Senior Unity Developer | Multiplayer • Mobile • Gameplay Systems
@@ -64,7 +66,7 @@ I enjoy taking features from **planning and implementation through testing, debu
 <td width="50%" valign="top">
 
 ### 🤖 Kiosk AI Assistant
-<img src="./assets/kiosk-ai.jpg" alt="Kiosk AI Assistant" width="100%">
+<img src="./assets/kiosk-ai.png" alt="Kiosk AI Assistant" width="100%">
 
 Smart interactive assistant experience for kiosk-style deployment with multilingual UX and polished presentation.
 
@@ -74,7 +76,7 @@ Smart interactive assistant experience for kiosk-style deployment with multiling
 <td width="50%" valign="top">
 
 ### 🃏 Hunter’s Bar
-<img src="./assets/hunters-lobby.jpg" alt="Hunter's Bar Lobby" width="100%">
+<img src="./assets/hunters-lobby.png" alt="Hunter's Bar Lobby" width="100%">
 
 Four-player multiplayer card game featuring lobby/ready flow, role-based gameplay and mobile deployment.
 
@@ -86,7 +88,7 @@ Four-player multiplayer card game featuring lobby/ready flow, role-based gamepla
 <td width="50%" valign="top">
 
 ### ✈️ Cluster²
-<img src="./assets/cluster2.jpg" alt="Cluster 2" width="100%">
+<img src="./assets/cluster2.png" alt="Cluster 2" width="100%">
 
 Stylized interactive game project with custom presentation, localized visuals and themed environments.
 
@@ -96,7 +98,7 @@ Stylized interactive game project with custom presentation, localized visuals an
 <td width="50%" valign="top">
 
 ### 🔥 Never Trust the Rules
-<img src="./assets/never-trust-rules.jpg" alt="Never Trust the Rules" width="100%">
+<img src="./assets/never-trust-rules.png" alt="Never Trust the Rules" width="100%">
 
 Mobile arcade-style game project focused on quick gameplay, strong visual identity and responsive interaction.
 
@@ -118,7 +120,7 @@ Stylized shooting/platforming project built around responsive shooting mechanics
 <td width="50%" valign="top">
 
 ### 🃏 Hunter’s Bar — Gameplay
-<img src="./assets/hunters-gameplay.jpg" alt="Hunter's Bar Gameplay" width="100%">
+<img src="./assets/hunters-gameplay.png" alt="Hunter's Bar Gameplay" width="100%">
 
 In-game multiplayer card-table experience showcasing player interaction, cards and roulette-style mechanics.
 
