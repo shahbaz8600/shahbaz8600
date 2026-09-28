@@ -1,10 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Shahroz Shahzad
+# Shahroz Shahzad
 
-### Senior Unity Developer • Multiplayer & Mobile Game Developer
+### Senior Unity Developer | Multiplayer • Mobile • Gameplay Systems
 
-I build scalable, polished and performance-focused games in **Unity & C#**, with experience across **mobile, multiplayer, gameplay systems, monetization, UI, networking and optimization**.
+Building polished, scalable and performance-focused experiences with **Unity & C#**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shahroz%20Shahzad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shah-roz-shahzad-44a812434)
+[![Email](https://img.shields.io/badge/Email-shahrozbutt1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahrozbutt1@gmail.com)
+[![Unity](https://img.shields.io/badge/Unity-Developer-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+
+**Phone:** +966 56 821 2973
 
 </div>
 
@@ -12,131 +18,109 @@ I build scalable, polished and performance-focused games in **Unity & C#**, with
 
 ## 👨‍💻 About Me
 
-- 🎮 Unity developer focused on **mobile, multiplayer and gameplay systems**
-- 🧩 Experienced with **clean architecture, reusable systems and scalable game features**
-- 🌐 Worked with multiplayer technologies including **Photon Fusion, Photon PUN and FishNet**
-- 📱 Experienced in building and shipping games for **Android, iOS, PC and WebGL**
-- 💰 Familiar with **AdMob, Unity Ads, rewarded ads, interstitials and In-App Purchases**
-- 🔥 Experienced with **Firebase**, authentication, persistence and live-service integrations
-- ⚙️ Strong focus on **performance optimization, debugging, profiling and maintainable C#**
-- 🧠 Comfortable taking a feature from **planning → implementation → testing → release**
-- 🤝 Open to Unity development, multiplayer, optimization and game-system collaboration
+I am a Unity developer focused on **multiplayer games, mobile development, gameplay architecture, UI systems, monetization, backend integrations and optimization**.
+
+I enjoy taking features from **planning and implementation through testing, debugging, optimization and release**. My work spans gameplay mechanics, networking, player systems, UI flows, Firebase, ads/IAP, localization and production-ready mobile builds.
+
+- 🎮 Unity & C# gameplay programming
+- 🌐 Multiplayer systems with Photon Fusion, Photon PUN and FishNet
+- 📱 Android, iOS, PC and WebGL development
+- ⚙️ Reusable architecture, ScriptableObjects, pooling and scalable systems
+- 🔥 Firebase, authentication and persistence
+- 💰 AdMob, Unity Ads and In-App Purchases
+- 🧠 Profiling, debugging and performance optimization
+- 🌍 Localization and multilingual UI
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Game Development
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+### Core
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-### Multiplayer & Networking
-![Photon](https://img.shields.io/badge/Photon-Networking-004480?style=for-the-badge)
-![FishNet](https://img.shields.io/badge/FishNet-Multiplayer-2C7DA0?style=for-the-badge)
-![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-010101?style=for-the-badge)
+### Multiplayer & Online
+![Photon](https://img.shields.io/badge/Photon-Fusion%20%7C%20PUN-004480?style=flat-square)
+![FishNet](https://img.shields.io/badge/FishNet-Multiplayer-2C7DA0?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket-Realtime-010101?style=flat-square)
 
 ### Mobile & Services
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AdMob](https://img.shields.io/badge/Google_AdMob-EA4335?style=for-the-badge&logo=googleads&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![AdMob](https://img.shields.io/badge/Google%20AdMob-EA4335?style=flat-square&logo=googleads&logoColor=white)
 
-### Unity Systems & Tools
-
-URP • UGUI • UI Toolkit • TextMeshPro • DOTween • Cinemachine • Addressables • ScriptableObjects • Object Pooling • Localization • VContainer
-
----
-
-## 🎯 What I Work On
-
-**Gameplay Systems**  
-Player controllers, combat, weapons, abilities, progression, inventory, quests, interactions, AI and reusable gameplay architecture.
-
-**Multiplayer Games**  
-Room/lobby systems, networked player state, synchronization, authority, reconnect flows, RPCs and multiplayer gameplay mechanics.
-
-**Mobile Games**  
-Android/iOS development, touch controls, mobile UI, optimization, ads, IAP, Firebase and release preparation.
-
-**Performance & Debugging**  
-CPU/GPU profiling, memory optimization, draw-call reduction, object pooling, asset optimization, networking issues and complex Unity bug fixing.
-
-**UI & Game Flow**  
-Menus, HUDs, inventories, shops, localization, settings, onboarding and complete game-state flows.
+### Unity Tools & Systems
+`URP` • `UGUI` • `UI Toolkit` • `TextMeshPro` • `DOTween` • `Cinemachine` • `Addressables` • `ScriptableObjects` • `Object Pooling` • `Localization` • `VContainer`
 
 ---
 
-## 🚀 Selected Project Experience
+## 🚀 Featured Work
 
-### 🃏 Hunter's Bar
-A multiplayer card game designed around **four-player online gameplay**, role-based mechanics, turn flow, matchmaking/lobby systems and mobile deployment.
+### 🤖 Kiosk AI Assistant
+A smart interactive AI assistant experience built for kiosk-style deployment, with a strong focus on guided interaction, multilingual UX and polished presentation.
 
-**Focus:** Unity • C# • Multiplayer • Mobile • UI • Game Flow • iOS/Android
+**Focus:** Unity • Interactive UI • AI Integration • Arabic/English UX • Kiosk Experience
 
-### 🏰 Tower Defense
-A modular tower-defense project with combat systems, enemies, bosses, active effects, progression and scalable game architecture.
+### 🃏 Hunter’s Bar
+A four-player multiplayer card game with role-based gameplay, turn flow, lobby/ready systems, card interactions and mobile deployment.
 
-**Focus:** Gameplay Architecture • Combat • ScriptableObjects • Effects • UI • Optimization
+**Focus:** Unity • C# • Multiplayer • Mobile • Networking • UI • iOS/Android
 
-### 🏃 Mobile Runner Systems
-Mobile-focused arcade gameplay featuring movement, collectibles, missions, scoring, revives, ads, progression and reusable pooling systems.
+### ✈️ Cluster²
+A stylized interactive game project featuring custom presentation, localized visuals and a polished themed environment.
 
-**Focus:** Mobile Controls • Pooling • Monetization • Progression • Performance
+**Focus:** Unity • UI/UX • Localization • Gameplay Presentation
 
-### 🌐 Multiplayer Gameplay & Networked Mechanics
-Development of synchronized multiplayer mechanics including character interactions, projectiles, moving platforms, vehicles, shared world objects and authority-sensitive gameplay.
+### 🔥 Never Trust the Rules
+A mobile arcade-style game project built around fast, visually distinctive gameplay and a strong branded presentation.
 
-**Focus:** Photon Fusion • FishNet • RPCs • State Synchronization • Network Gameplay
+**Focus:** Unity • Mobile Gameplay • Arcade Systems • UI • Game Feel
 
-> Some commercial and client projects are private, so source code and confidential project details are intentionally not published here.
+### 🎯 Shooting or Whatever!
+A stylized shooting/platforming game project focused on responsive gameplay, level interaction and arcade presentation.
 
----
+**Focus:** Unity • 2D Gameplay • Shooting Mechanics • Level Systems
 
-## 💡 Core Strengths
-
-- Unity & C# gameplay programming
-- Multiplayer networking
-- Mobile game development
-- Game architecture & refactoring
-- Performance optimization
-- Debugging complex Unity issues
-- Firebase & backend integration
-- Ads & In-App Purchases
-- UI implementation
-- Localization
-- Git & GitHub workflows
-- Technical planning and feature ownership
+> Some commercial and client projects are private. Source code and confidential project details are intentionally not published.
 
 ---
 
-## 📊 GitHub
+## 🎯 What I Can Build
+
+- Multiplayer lobbies, matchmaking and synchronized gameplay
+- Player controllers, combat, weapons and abilities
+- Inventory, shops, quests and progression systems
+- Mobile UI, settings, onboarding and complete game flow
+- Firebase authentication and persistent player data
+- Ads, rewarded ads, interstitials and IAP
+- Localization and Arabic/English interfaces
+- Performance optimization and complex Unity bug fixing
+- Android/iOS release preparation
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahbaz8600&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahbaz8600&layout=compact&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=shahbaz8600&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shahbaz8600&style=flat-square&label=Profile%20Views)
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Great
+## 📬 Contact
 
-I'm interested in working on:
+- **LinkedIn:** [Shahroz Shahzad](http://linkedin.com/in/shah-roz-shahzad-44a812434)
+- **Email:** [shahrozbutt1@gmail.com](mailto:shahrozbutt1@gmail.com)
+- **Phone:** +966 56 821 2973
 
-- 🎮 Unity game development
-- 🌐 Multiplayer games
-- 📱 Android & iOS games
-- ⚙️ Gameplay systems and architecture
-- 🐛 Unity debugging and optimization
-- 💰 Ads, IAP and monetization systems
-- 🔥 Firebase and online integrations
-
-If you're looking for a Unity developer who can take ownership of gameplay systems from implementation through testing and optimization, feel free to reach out through GitHub.
+If you are looking for a Unity developer for **multiplayer, mobile games, gameplay systems, optimization or full feature implementation**, feel free to get in touch.
 
 ---
 
@@ -144,7 +128,5 @@ If you're looking for a Unity developer who can take ownership of gameplay syste
 
 ### Shahroz Shahzad
 **Unity Developer • Multiplayer • Mobile Games • Gameplay Systems**
-
-![Profile Views](https://komarev.com/ghpvc/?username=shahbaz8600&style=flat-square)
 
 </div>
