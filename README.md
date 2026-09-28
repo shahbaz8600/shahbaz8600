@@ -57,32 +57,76 @@ I enjoy taking features from **planning and implementation through testing, debu
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Project Gallery
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Kiosk AI Assistant
-A smart interactive AI assistant experience built for kiosk-style deployment, with a strong focus on guided interaction, multilingual UX and polished presentation.
+<img src="./assets/kiosk-ai.jpg" alt="Kiosk AI Assistant" width="100%">
 
-**Focus:** Unity • Interactive UI • AI Integration • Arabic/English UX • Kiosk Experience
+Smart interactive assistant experience for kiosk-style deployment with multilingual UX and polished presentation.
+
+**Unity • AI Integration • Arabic/English • Interactive UI**
+
+</td>
+<td width="50%" valign="top">
 
 ### 🃏 Hunter’s Bar
-A four-player multiplayer card game with role-based gameplay, turn flow, lobby/ready systems, card interactions and mobile deployment.
+<img src="./assets/hunters-lobby.jpg" alt="Hunter's Bar Lobby" width="100%">
 
-**Focus:** Unity • C# • Multiplayer • Mobile • Networking • UI • iOS/Android
+Four-player multiplayer card game featuring lobby/ready flow, role-based gameplay and mobile deployment.
+
+**Unity • C# • Multiplayer • Mobile • Networking**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### ✈️ Cluster²
-A stylized interactive game project featuring custom presentation, localized visuals and a polished themed environment.
+<img src="./assets/cluster2.jpg" alt="Cluster 2" width="100%">
 
-**Focus:** Unity • UI/UX • Localization • Gameplay Presentation
+Stylized interactive game project with custom presentation, localized visuals and themed environments.
+
+**Unity • UI/UX • Localization • Presentation**
+
+</td>
+<td width="50%" valign="top">
 
 ### 🔥 Never Trust the Rules
-A mobile arcade-style game project built around fast, visually distinctive gameplay and a strong branded presentation.
+<img src="./assets/never-trust-rules.jpg" alt="Never Trust the Rules" width="100%">
 
-**Focus:** Unity • Mobile Gameplay • Arcade Systems • UI • Game Feel
+Mobile arcade-style game project focused on quick gameplay, strong visual identity and responsive interaction.
+
+**Unity • Mobile • Arcade Systems • Game Feel**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🎯 Shooting or Whatever!
-A stylized shooting/platforming game project focused on responsive gameplay, level interaction and arcade presentation.
+<img src="./assets/shooting.jpg" alt="Shooting or Whatever" width="100%">
 
-**Focus:** Unity • 2D Gameplay • Shooting Mechanics • Level Systems
+Stylized shooting/platforming project built around responsive shooting mechanics and arcade-style level interaction.
+
+**Unity • 2D Gameplay • Shooting • Level Systems**
+
+</td>
+<td width="50%" valign="top">
+
+### 🃏 Hunter’s Bar — Gameplay
+<img src="./assets/hunters-gameplay.jpg" alt="Hunter's Bar Gameplay" width="100%">
+
+In-game multiplayer card-table experience showcasing player interaction, cards and roulette-style mechanics.
+
+**Gameplay Systems • Multiplayer • UI • Mobile**
+
+</td>
+</tr>
+</table>
 
 > Some commercial and client projects are private. Source code and confidential project details are intentionally not published.
 
