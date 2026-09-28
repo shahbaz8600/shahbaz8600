@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/profile.jpg" alt="Shahroz Shahzad" width="180" style="border-radius:50%">
-
 # Shahroz Shahzad
 
 ### Senior Unity Developer | Multiplayer • Mobile • Gameplay Systems
